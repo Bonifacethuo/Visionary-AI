@@ -1,0 +1,7 @@
+{
+  "name": "Visionary AI - Image Analyzer",
+  "description": "An advanced image analysis tool powered by Gemini 3 Pro, capable of deep scene understanding, object detection, and detailed visual descriptions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
